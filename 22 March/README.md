@@ -19,4 +19,4 @@ This repository contains a unique logo design created using **pure HTML and CSS*
    git clone https://github.com/tufailashraf/CSS-Battle-Challenges.git
 
 ## Preview
-![Logo Preview](<img src="preview.png" />)
+![Logo Preview] <img src="preview.png" />
