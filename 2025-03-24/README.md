@@ -1,4 +1,4 @@
-# 🖌 CSS Battle Challenge - 24 March 🎯  
+# 🎨 CSS Battle Challenge - 24 March 🎯  
 
 > A **pixel-perfect** CSS art recreation using **only HTML & CSS**. No JavaScript, no frameworks!  
 
