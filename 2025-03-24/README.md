@@ -25,11 +25,4 @@ This project demonstrates how complex visuals can be achieved with **CSS-only** 
 
 ## 🛠️ Technologies Used  
 - **HTML5** – Semantic and structured layout  
-- **CSS3** – Utilizing **Flexbox, Grid, Clip-path, Transformations**  
-
----  
-
-## 🚀 Setup & Usage  
-1. **Clone the repository**  
-   ```sh
-   git clone https://github.com/tufailashraf/CSS-Battle-Challenges.git
+- **CSS3** – Utilizing **Flexbox, Grid, Clip-path, Transformations** 
