@@ -25,11 +25,4 @@ Using just HTML & CSS, we push the boundaries of web design, proving that even c
 
 ## 🛠️ Technologies Used  
 - **HTML5** – For structured markup  
-- **CSS3** – Utilizing **Flexbox, Grid, Transformations**  
-
----  
-
-## 🚀 Setup & Usage  
-1. **Clone the repository**  
-   ```sh
-   git clone https://github.com/tufailashraf/CSS-Battle-Challenges.git
+- **CSS3** – Utilizing **Flexbox, Grid, Transformations**
