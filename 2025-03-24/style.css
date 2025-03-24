@@ -1,0 +1,100 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #e3516e;
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  background-color: #66284a;
+  display: grid;
+  grid-template-columns: 20px 220px 20px;
+  grid-template-rows: 20px 120px 20px;
+  gap: 20px;
+  grid-template-areas: "one two three" "four five six" "seven eight nine";
+  justify-content: center;
+  padding: 20px;
+}
+.container .box {
+  background-color: #e3516e;
+}
+
+.box1,
+.box3,
+.box7,
+.box9 {
+  background-color: transparent !important;
+}
+
+.box2,
+.box8 {
+  margin: 0 20px;
+}
+
+.box4,
+.box6 {
+  margin: 20px 0;
+}
+
+.box1 {
+  grid-area: one;
+}
+.box2 {
+  grid-area: two;
+}
+
+.box3 {
+  grid-area: three;
+}
+.box4 {
+  grid-area: four;
+}
+
+.box5 {
+  grid-area: five;
+  position: relative;
+}
+
+.box5 div {
+    width: 20px;
+    height: 20px;
+    background-color: #66284a;
+    position: absolute;
+}
+
+.box5 div:nth-child(2) {
+    right: 0;
+}
+
+.box5 div:nth-child(3) {
+    bottom: 0;
+}
+
+.box5 div:nth-child(4) {
+    right: 0;
+    bottom: 0;
+}
+
+.box6 {
+  grid-area: six;
+}
+
+.box7 {
+  grid-area: seven;
+}
+
+.box8 {
+  grid-area: eight;
+}
+
+.box9 {
+  grid-area: nine;
+}
