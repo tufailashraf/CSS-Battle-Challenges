@@ -1,4 +1,4 @@
-# 🎨 CSS Battle Challenges - 01 March 🚀  
+# 🎨 CSS Battle Challenges - 01 March 2025 🚀  
 
 > A sleek, minimalistic logo crafted using **only HTML & CSS**—no JavaScript, no external libraries!  
 
