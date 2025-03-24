@@ -29,8 +29,10 @@ Welcome to the **Battle Arena!** 🏰🔥 Pick a challenge from [CSS Battle](htt
 - [Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  
 - [Grid Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)  
 
-## 🤝 Contribute  
-Want to **add new challenges** or **improve the existing ones**? Feel free to contribute! Open an issue or submit a pull request.  
+## 🚀 Setup & Usage  
+1. **Clone the repository**  
+   ```sh
+   git clone https://github.com/tufailashraf/CSS-Battle-Challenges.git
 
 ## 📌 Stay Connected  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tufail-ashraf/) [![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/tufailashraf)  
