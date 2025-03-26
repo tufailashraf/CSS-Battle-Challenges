@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #4f77ff;
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.circle {
+  width: 192px;
+  height: 192px;
+  border: 32px solid #ffffff;
+  border-radius: 100px;
+  position: relative;
+}
+
+.bar {
+  background-color: #ffffff;
+  position: absolute;
+  bottom: -32px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 256px;
+  height: 32px;
+}
